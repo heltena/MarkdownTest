@@ -13,4 +13,5 @@ To reproduce the error:
 
 This video shows it:
 
-https://github.com/heltena/MarkdownTest/blob/main/Screenshots/issue.mp4
+https://user-images.githubusercontent.com/1567416/141509683-d42eb959-a626-4e29-8407-338fa36c1cf2.mp4
+
